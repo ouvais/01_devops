@@ -14,3 +14,4 @@ terraform.rc
 * Игнорируются все файлы в директории: </br>
 </br>
 **/.terraform/*
+some lines
